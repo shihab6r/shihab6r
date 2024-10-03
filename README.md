@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **Shihab Rana**
 - 👀 I’m interested in **Tech**
-- 🌱 I’m currently learning **Python**
-- 💞️ I’m looking to collaborate on **diferent projects on python
-- 📫 How to reach me shihabrana.e@gmail.com
-- ⚡ Fun fact: I love eating momos
+- 🌱 I’m currently learning **Java**
+- 💞️ I’m looking to collaborate on **diferent projects on Java**
+- 📫 How to reach me **shihabrana.e@gmail.com**
+- ✈️ Hobby: **Travelling** "I love traveling"
 
 <!---
 shihabrana66/shihabrana66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
